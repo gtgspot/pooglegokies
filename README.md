@@ -1,10 +1,8 @@
-# **Build your portfolio with Once UI's Magic Portfolio**
-
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+build with [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/tgspot/spin-wallet.git
 ```
 
 **2. Install dependencies**
@@ -33,18 +31,14 @@ Add a new .mdx file to src/app/[locale]/blog/posts or src/app/[locale]/work/proj
 ```
 
 # **Features**
-
-## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
-
-## **SEO**
+```
 - Automatic open-graph and X image generation with next/og
 - Automatic schema and metadata generation based on the content file
 
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+- Endless customization options through [data attributes]
 
 ## **Content**
 - Render sections conditionally based on the content file
@@ -67,8 +61,7 @@ Localization added by [François Hernandez](https://github.com/francoishernandez
 
 # **Get involved**
 
-- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your portfolio with us!
-- Report a [bug](https://github.com/once-ui-system/magic-portfolio/issues/new?labels=bug&template=bug_report.md).
+- Report a [bug](https://github.com/gtgspot/apiagent/issues/new?labels=bug&template=bug_report.md).
 
 # **License**
 
@@ -79,4 +72,4 @@ Distributed under the CC BY-NC 4.0 License.
 See `LICENSE.txt` for more information.
 
 # **Deploy with Vercel**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fdemo.magic-portfolio.com&demo-image=https%3A%2F%2Fonce-ui.com%2Fimages%2Ftemplates%2Fmagic-portfolio%2Fcover.jpg)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftgspot%2Fspin-wallet&project-name=spin-wallet&repository-name=spin-wallet&redirect-url=https%3A%2F%2Fgithub.com%2Ftgspot%2Fspin-wallet&demo-title=tgspot%20spin-wallet&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fpragmaticplay-casino.com&demo-image=https%3A%2F%2Fpragmaticplay-casino.com%2Fimages%2Ftemplates%2Fspin-wallet%2Fcover.jpg)
